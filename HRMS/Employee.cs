@@ -4,6 +4,7 @@ using System.Text;
 
 namespace HRMS
 {
+    //Employee class has all the details about employee
     class Employee
     {
         public int Id { get; set; }
